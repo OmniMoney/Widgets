@@ -5,7 +5,7 @@ With the OmniMoney API, you can interact with your budget accounts, transactions
 ## Installation Instructions ##
 If you haven't already, go ahead and grab your OmniMoney access token by [logging in](https://my.omnimoney.app), opening the quick commands panel, and selecting API. 
 
-Secondly, create a new script in the Scriptable app called "cache" (if you haven't already) with the code from here. This code is used in every widgets example to securely store your access token on your phone and to cache API responses so that the API isn't polled too quickly. 
+Secondly, create a new script in the Scriptable app called "cache" (if you haven't already) with the code from [here](https://github.com/OmniMoney/Widgets/blob/main/cache.js). This code is used in every widgets example to securely store your access token on your phone and to cache API responses so that the API isn't polled too quickly. 
 
 Lastly, create a new script in the Scriptable app with the code from whichever widget you would like to create. On the app, press the play button at the bottom to get your access token set up. Then, install the Scriptable widget on your home screen and select your newly created widget.
 
@@ -13,3 +13,5 @@ Lastly, create a new script in the Scriptable app with the code from whichever w
 
 ### Spending Power
 View your spending power for the current month. 
+[Code](https://github.com/OmniMoney/Widgets/blob/main/spending_power.js)
+![Spending Power widget screenshot](https://github.com/OmniMoney/Widgets/blob/main/screenshots/spending%20power%20widget.PNG)
