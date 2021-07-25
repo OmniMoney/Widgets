@@ -14,4 +14,5 @@ Lastly, create a new script in the Scriptable app with the code from whichever w
 ### Spending Power
 View your spending power for the current month. 
 [Code](https://github.com/OmniMoney/Widgets/blob/main/spending_power.js)
-![Spending Power widget screenshot](https://github.com/OmniMoney/Widgets/blob/main/screenshots/spending%20power%20widget.PNG)
+
+![Spending Power widget screenshot](https://github.com/OmniMoney/Widgets/blob/main/screenshots/spending%20power%20widget.png)
